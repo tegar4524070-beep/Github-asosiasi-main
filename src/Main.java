@@ -5,7 +5,7 @@ public class Main {
         Dokter dokter2 = new Dokter("Dr. Amun");
         Pasien pasien2 = new Pasien("Nwenden");
         Pasien pasien3 = new Pasien("Reza");
-        Dokter dokter3 = new Dokter("Dr.Sendok")
+        Dokter dokter3 = new Dokter("Dr.Sendok");
 
         dokter1.periksa(pasien1);
         dokter2.periksa(pasien2);
